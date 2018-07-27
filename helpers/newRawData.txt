@@ -1,0 +1,9 @@
+Cosmetics for Bastion
+	Event/WINTER_WONDERLAND Unlocks
+		Toast (Rare Pose)
+			IS_STANDARD
+
+Cosmetics for Sombra
+	Event/WINTER_WONDERLAND Unlocks
+		Toast (Rare Pose)
+			IS_STANDARD

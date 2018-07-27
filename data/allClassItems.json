@@ -1,0 +1,1422 @@
+{
+  "icons": [
+    {
+      "name": "...Never Die",
+      "id": "never-die"
+    },
+    {
+      "name": "16-Bit Hero",
+      "id": "16bit-hero"
+    },
+    {
+      "name": "2017",
+      "id": "2017"
+    },
+    {
+      "name": "2018",
+      "id": "2018"
+    },
+    {
+      "name": "Anniversary 2017",
+      "id": "anniversary-2017"
+    },
+    {
+      "name": "Anniversary 2018",
+      "id": "anniversary-2018"
+    },
+    {
+      "name": "Anubis",
+      "id": "anubis"
+    },
+    {
+      "name": "Archives 2018",
+      "id": "archives-2018"
+    },
+    {
+      "name": "Assassin",
+      "id": "assassin"
+    },
+    {
+      "name": "Australia",
+      "id": "australia"
+    },
+    {
+      "name": "B73-NS",
+      "id": "b73ns"
+    },
+    {
+      "name": "Baihu",
+      "id": "baihu"
+    },
+    {
+      "name": "Bao",
+      "id": "bao"
+    },
+    {
+      "name": "Barbarian",
+      "id": "barbarian"
+    },
+    {
+      "name": "Bells",
+      "id": "bells"
+    },
+    {
+      "name": "Bewitching",
+      "id": "bewitching"
+    },
+    {
+      "name": "Bokimari",
+      "id": "bokimari"
+    },
+    {
+      "name": "Boston Uprising",
+      "id": "boston-uprising"
+    },
+    {
+      "name": "Brazil",
+      "id": "brazil"
+    },
+    {
+      "name": "Bubbly",
+      "id": "bubbly"
+    },
+    {
+      "name": "Calavera",
+      "id": "calavera"
+    },
+    {
+      "name": "Candle",
+      "id": "candle"
+    },
+    {
+      "name": "Candy Cane",
+      "id": "candy-cane"
+    },
+    {
+      "name": "Capsule",
+      "id": "capsule"
+    },
+    {
+      "name": "Cheers!",
+      "id": "cheers"
+    },
+    {
+      "name": "China",
+      "id": "china"
+    },
+    {
+      "name": "Coin",
+      "id": "coin"
+    },
+    {
+      "name": "Colossus",
+      "id": "colossus"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Competitor",
+      "id": "competitive-6v6-elimination-competitor"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Hero",
+      "id": "competitive-6v6-elimination-hero"
+    },
+    {
+      "name": "Competitive 3v3 Group Elimination Competitor",
+      "id": "competitive-3v3-group-elimination-competitor"
+    },
+    {
+      "name": "Competitive 3v3 Group Elimination Hero",
+      "id": "competitive-3v3-group-elimination-hero"
+    },
+    {
+      "name": "Competitive CTF Competitor",
+      "id": "competitive-ctf-competitor"
+    },
+    {
+      "name": "Competitive CTF Hero",
+      "id": "competitive-ctf-hero"
+    },
+    {
+      "name": "Competitive Deathmatch Competitor",
+      "id": "competitive-deathmatch-competitor"
+    },
+    {
+      "name": "Competitive Deathmatch Hero",
+      "id": "competitive-deathmatch-hero"
+    },
+    {
+      "name": "Copa Lúcioball Competitor",
+      "id": "copa-lucioball-competitor"
+    },
+    {
+      "name": "Copa Lúcioball Hero",
+      "id": "copa-lucioball-hero"
+    },
+    {
+      "name": "Credit",
+      "id": "credit"
+    },
+    {
+      "name": "Crusader",
+      "id": "crusader"
+    },
+    {
+      "name": "Dallas Fuel",
+      "id": "dallas-fuel"
+    },
+    {
+      "name": "Dark Lady",
+      "id": "dark-lady"
+    },
+    {
+      "name": "Dark Wanderer",
+      "id": "dark-wanderer"
+    },
+    {
+      "name": "Demolition",
+      "id": "demolition"
+    },
+    {
+      "name": "Demon Hunter",
+      "id": "demon-hunter"
+    },
+    {
+      "name": "Dominion",
+      "id": "dominion"
+    },
+    {
+      "name": "Dragon Dance",
+      "id": "dragon-dance"
+    },
+    {
+      "name": "Dreidel",
+      "id": "dreidel"
+    },
+    {
+      "name": "Drop Pod",
+      "id": "drop-pod"
+    },
+    {
+      "name": "Egypt",
+      "id": "egypt"
+    },
+    {
+      "name": "Elephant",
+      "id": "elephant"
+    },
+    {
+      "name": "Enforcer",
+      "id": "enforcer"
+    },
+    {
+      "name": "Eyeball",
+      "id": "eyeball"
+    },
+    {
+      "name": "Florida Mayhem",
+      "id": "florida-mayhem"
+    },
+    {
+      "name": "For the Alliance",
+      "id": "for-the-alliance"
+    },
+    {
+      "name": "For the Horde",
+      "id": "for-the-horde"
+    },
+    {
+      "name": "Fortune",
+      "id": "fortune"
+    },
+    {
+      "name": "France",
+      "id": "france"
+    },
+    {
+      "name": "From Beyond the Moon",
+      "id": "from-beyond-the-moon"
+    },
+    {
+      "name": "Fuchimari",
+      "id": "fuchimari"
+    },
+    {
+      "name": "Garrosh",
+      "id": "garrosh"
+    },
+    {
+      "name": "Germany",
+      "id": "germany"
+    },
+    {
+      "name": "Ghostymari",
+      "id": "ghostymari"
+    },
+    {
+      "name": "Gingerbread",
+      "id": "gingerbread"
+    },
+    {
+      "name": "Gingermari",
+      "id": "gingermari"
+    },
+    {
+      "name": "Gold",
+      "id": "gold"
+    },
+    {
+      "name": "Good Fortune",
+      "id": "good-fortune"
+    },
+    {
+      "name": "Greece",
+      "id": "greece"
+    },
+    {
+      "name": "Halloween Terror 2016",
+      "id": "halloween-terror-2016"
+    },
+    {
+      "name": "Halloween Terror 2017",
+      "id": "halloween-terror-2017"
+    },
+    {
+      "name": "Happy Squid",
+      "id": "happy-squid"
+    },
+    {
+      "name": "Have Fish",
+      "id": "have-fish"
+    },
+    {
+      "name": "Hearthstone",
+      "id": "hearthstone"
+    },
+    {
+      "name": "Heavy Assault",
+      "id": "heavy-assault"
+    },
+    {
+      "name": "Hierarch",
+      "id": "hierarch"
+    },
+    {
+      "name": "Holly",
+      "id": "holly"
+    },
+    {
+      "name": "Hot Cocoa",
+      "id": "hot-cocoa"
+    },
+    {
+      "name": "Houston Outlaws",
+      "id": "houston-outlaws"
+    },
+    {
+      "name": "Huchimari",
+      "id": "huchimari"
+    },
+    {
+      "name": "Inaugural Season",
+      "id": "inaugural-season"
+    },
+    {
+      "name": "Jaina",
+      "id": "jaina"
+    },
+    {
+      "name": "Japan",
+      "id": "japan"
+    },
+    {
+      "name": "Jim",
+      "id": "jim"
+    },
+    {
+      "name": "Junkenstein's Pachimonster",
+      "id": "junkensteins-pachimonster"
+    },
+    {
+      "name": "Kul Tiras",
+      "id": "kul-tiras"
+    },
+    {
+      "name": "Kọfị Aromo",
+      "id": "kofi-aromo"
+    },
+    {
+      "name": "Lantern",
+      "id": "lantern"
+    },
+    {
+      "name": "Lich King",
+      "id": "lich-king"
+    },
+    {
+      "name": "Lion Dance",
+      "id": "lion-dance"
+    },
+    {
+      "name": "London Spitfire",
+      "id": "london-spitfire"
+    },
+    {
+      "name": "Loot Box",
+      "id": "loot-box"
+    },
+    {
+      "name": "Lord of Candy",
+      "id": "lord-of-candy"
+    },
+    {
+      "name": "Lord of Terror",
+      "id": "lord-of-terror"
+    },
+    {
+      "name": "Los Angeles Gladiators",
+      "id": "los-angeles-gladiators"
+    },
+    {
+      "name": "Los Angeles Valiant",
+      "id": "los-angeles-valiant"
+    },
+    {
+      "name": "Los Muertos",
+      "id": "los-muertos"
+    },
+    {
+      "name": "Lucky Pouch",
+      "id": "lucky-pouch"
+    },
+    {
+      "name": "Mama Pig's",
+      "id": "mama-pigs"
+    },
+    {
+      "name": "Mariachi",
+      "id": "mariachi"
+    },
+    {
+      "name": "Maximilien",
+      "id": "maximilien"
+    },
+    {
+      "name": "Mech",
+      "id": "mech"
+    },
+    {
+      "name": "Mexico",
+      "id": "mexico"
+    },
+    {
+      "name": "Mochi",
+      "id": "mochi"
+    },
+    {
+      "name": "Monk",
+      "id": "monk"
+    },
+    {
+      "name": "Na Zdorovie",
+      "id": "na-zdorovie"
+    },
+    {
+      "name": "Nepal",
+      "id": "nepal"
+    },
+    {
+      "name": "New Year Cake",
+      "id": "new-year-cake"
+    },
+    {
+      "name": "New York Excelsior",
+      "id": "new-york-excelsior"
+    },
+    {
+      "name": "Nexus",
+      "id": "nexus"
+    },
+    {
+      "name": "Null Sector",
+      "id": "null-sector"
+    },
+    {
+      "name": "Nullmari",
+      "id": "nullmari"
+    },
+    {
+      "name": "Numbani",
+      "id": "numbani"
+    },
+    {
+      "name": "Ornament",
+      "id": "ornament"
+    },
+    {
+      "name": "Overwatch Dark",
+      "id": "overwatch-dark"
+    },
+    {
+      "name": "Overwatch League",
+      "id": "overwatch-league"
+    },
+    {
+      "name": "Overwatch Light",
+      "id": "overwatch-light"
+    },
+    {
+      "name": "Pachilantern",
+      "id": "pachilantern"
+    },
+    {
+      "name": "Pachimari",
+      "id": "pachimari"
+    },
+    {
+      "name": "Pachimerry",
+      "id": "pachimerry"
+    },
+    {
+      "name": "Pachimummy",
+      "id": "pachimummy"
+    },
+    {
+      "name": "Pachireindeer",
+      "id": "pachireindeer"
+    },
+    {
+      "name": "Pachiversary",
+      "id": "pachiversary"
+    },
+    {
+      "name": "Paqingmari",
+      "id": "paqingmari"
+    },
+    {
+      "name": "Paquemari",
+      "id": "paquemari"
+    },
+    {
+      "name": "Peachimari",
+      "id": "peachimari"
+    },
+    {
+      "name": "Peppermint",
+      "id": "peppermint"
+    },
+    {
+      "name": "Pharaoh",
+      "id": "pharaoh"
+    },
+    {
+      "name": "Philadelphia Fusion",
+      "id": "philadelphia-fusion"
+    },
+    {
+      "name": "Present",
+      "id": "present"
+    },
+    {
+      "name": "Protoss",
+      "id": "protoss"
+    },
+    {
+      "name": "Qinglong",
+      "id": "qinglong"
+    },
+    {
+      "name": "Queen of Blades",
+      "id": "queen-of-blades"
+    },
+    {
+      "name": "Ramen",
+      "id": "ramen"
+    },
+    {
+      "name": "Red Envelope",
+      "id": "red-envelope"
+    },
+    {
+      "name": "Rhino",
+      "id": "rhino"
+    },
+    {
+      "name": "Rikimaru",
+      "id": "rikimaru"
+    },
+    {
+      "name": "Route 66",
+      "id": "route-66"
+    },
+    {
+      "name": "Russia",
+      "id": "russia"
+    },
+    {
+      "name": "Sakura",
+      "id": "sakura"
+    },
+    {
+      "name": "San Francisco Shock",
+      "id": "san-francisco-shock"
+    },
+    {
+      "name": "Scooter",
+      "id": "scooter"
+    },
+    {
+      "name": "Season 1 Competitor",
+      "id": "season-1-competitor"
+    },
+    {
+      "name": "Season 1 Hero",
+      "id": "season-1-hero"
+    },
+    {
+      "name": "Season 10 Competitor",
+      "id": "season-10-competitor"
+    },
+    {
+      "name": "Season 10 Hero",
+      "id": "season-10-hero"
+    },
+    {
+      "name": "Season 11 Competitor",
+      "id": "season-11-competitor"
+    },
+    {
+      "name": "Season 11 Hero",
+      "id": "season-11-hero"
+    },
+    {
+      "name": "Season 2 Competitor",
+      "id": "season-2-competitor"
+    },
+    {
+      "name": "Season 2 Hero",
+      "id": "season-2-hero"
+    },
+    {
+      "name": "Season 3 Competitor",
+      "id": "season-3-competitor"
+    },
+    {
+      "name": "Season 3 Hero",
+      "id": "season-3-hero"
+    },
+    {
+      "name": "Season 4 Competitor",
+      "id": "season-4-competitor"
+    },
+    {
+      "name": "Season 4 Hero",
+      "id": "season-4-hero"
+    },
+    {
+      "name": "Season 5 Competitor",
+      "id": "season-5-competitor"
+    },
+    {
+      "name": "Season 5 Hero",
+      "id": "season-5-hero"
+    },
+    {
+      "name": "Season 6 Competitor",
+      "id": "season-6-competitor"
+    },
+    {
+      "name": "Season 6 Hero",
+      "id": "season-6-hero"
+    },
+    {
+      "name": "Season 7 Competitor",
+      "id": "season-7-competitor"
+    },
+    {
+      "name": "Season 7 Hero",
+      "id": "season-7-hero"
+    },
+    {
+      "name": "Season 8 Competitor",
+      "id": "season-8-competitor"
+    },
+    {
+      "name": "Season 8 Hero",
+      "id": "season-8-hero"
+    },
+    {
+      "name": "Season 9 Competitor",
+      "id": "season-9-competitor"
+    },
+    {
+      "name": "Season 9 Hero",
+      "id": "season-9-hero"
+    },
+    {
+      "name": "Seollal",
+      "id": "seollal"
+    },
+    {
+      "name": "Seoul Dynasty",
+      "id": "seoul-dynasty"
+    },
+    {
+      "name": "Shanghai Dragons",
+      "id": "shanghai-dragons"
+    },
+    {
+      "name": "Siege Mode",
+      "id": "siege-mode"
+    },
+    {
+      "name": "Six-Gun Killer",
+      "id": "sixgun-killer"
+    },
+    {
+      "name": "Sniper",
+      "id": "sniper"
+    },
+    {
+      "name": "Snow Globe",
+      "id": "snow-globe"
+    },
+    {
+      "name": "Snowman",
+      "id": "snowman"
+    },
+    {
+      "name": "South Korea",
+      "id": "south-korea"
+    },
+    {
+      "name": "Spider",
+      "id": "spider"
+    },
+    {
+      "name": "Stocking",
+      "id": "stocking"
+    },
+    {
+      "name": "Summer Games 2016",
+      "id": "summer-games-2016"
+    },
+    {
+      "name": "Summer Games 2017",
+      "id": "summer-games-2017"
+    },
+    {
+      "name": "Superstition",
+      "id": "superstition"
+    },
+    {
+      "name": "Svyatogor",
+      "id": "svyatogor"
+    },
+    {
+      "name": "Sweden",
+      "id": "sweden"
+    },
+    {
+      "name": "Switzerland",
+      "id": "switzerland"
+    },
+    {
+      "name": "Tangerines",
+      "id": "tangerines"
+    },
+    {
+      "name": "Tannenbaum",
+      "id": "tannenbaum"
+    },
+    {
+      "name": "Terran",
+      "id": "terran"
+    },
+    {
+      "name": "Tombstone",
+      "id": "tombstone"
+    },
+    {
+      "name": "Top 500",
+      "id": "top-500"
+    },
+    {
+      "name": "Totem",
+      "id": "totem"
+    },
+    {
+      "name": "Training Bot",
+      "id": "training-bot"
+    },
+    {
+      "name": "Trooper",
+      "id": "trooper"
+    },
+    {
+      "name": "United Kingdom",
+      "id": "united-kingdom"
+    },
+    {
+      "name": "United States of America",
+      "id": "united-states-of-america"
+    },
+    {
+      "name": "Uprising 2017",
+      "id": "uprising-2017"
+    },
+    {
+      "name": "Vampachimari",
+      "id": "vampachimari"
+    },
+    {
+      "name": "Varian",
+      "id": "varian"
+    },
+    {
+      "name": "Vivi",
+      "id": "vivi"
+    },
+    {
+      "name": "Winter Wonderland 2016",
+      "id": "winter-wonderland-2016"
+    },
+    {
+      "name": "Winter Wonderland 2017",
+      "id": "winter-wonderland-2017"
+    },
+    {
+      "name": "Witch Doctor",
+      "id": "witch-doctor"
+    },
+    {
+      "name": "Witch's Brew",
+      "id": "witchs-brew"
+    },
+    {
+      "name": "Witch's Hat",
+      "id": "witchs-hat"
+    },
+    {
+      "name": "Wizard",
+      "id": "wizard"
+    },
+    {
+      "name": "Wolf",
+      "id": "wolf"
+    },
+    {
+      "name": "Wreath",
+      "id": "wreath"
+    },
+    {
+      "name": "Wuchimari",
+      "id": "wuchimari"
+    },
+    {
+      "name": "Xuanwu",
+      "id": "xuanwu"
+    },
+    {
+      "name": "Year of the Dog 2018",
+      "id": "year-of-the-dog-2018"
+    },
+    {
+      "name": "Year of the Rooster 2017",
+      "id": "year-of-the-rooster-2017"
+    },
+    {
+      "name": "Yetimari",
+      "id": "yetimari"
+    },
+    {
+      "name": "You are not prepared",
+      "id": "you-are-not-prepared"
+    },
+    {
+      "name": "Zandalar",
+      "id": "zandalar"
+    },
+    {
+      "name": "Zerg",
+      "id": "zerg"
+    },
+    {
+      "name": "Zhuque",
+      "id": "zhuque"
+    }
+  ],
+  "sprays": [
+    {
+      "name": "...Never Die",
+      "id": "never-die"
+    },
+    {
+      "name": "...Punch",
+      "id": "punch"
+    },
+    {
+      "name": "Anduin",
+      "id": "anduin"
+    },
+    {
+      "name": "Anniversary",
+      "id": "anniversary"
+    },
+    {
+      "name": "Archives",
+      "id": "archives"
+    },
+    {
+      "name": "Auspicious Lion",
+      "id": "auspicious-lion"
+    },
+    {
+      "name": "Awakened Lion",
+      "id": "awakened-lion"
+    },
+    {
+      "name": "B73-NS",
+      "id": "b73ns"
+    },
+    {
+      "name": "Barbarian",
+      "id": "barbarian"
+    },
+    {
+      "name": "Bats",
+      "id": "bats"
+    },
+    {
+      "name": "Beyond the Moon",
+      "id": "beyond-the-moon"
+    },
+    {
+      "name": "Bicycle Kick",
+      "id": "bicycle-kick"
+    },
+    {
+      "name": "Boo!",
+      "id": "boo"
+    },
+    {
+      "name": "Boop!",
+      "id": "boop"
+    },
+    {
+      "name": "Boston Uprising Logo",
+      "id": "boston-uprising-logo"
+    },
+    {
+      "name": "Candyball",
+      "id": "candyball"
+    },
+    {
+      "name": "Catcher",
+      "id": "catcher"
+    },
+    {
+      "name": "Caution",
+      "id": "caution"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Competitor",
+      "id": "competitive-6v6-elimination-competitor"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Hero",
+      "id": "competitive-6v6-elimination-hero"
+    },
+    {
+      "name": "Competitive 3v3 Group Elimination Competitor",
+      "id": "competitive-3v3-group-elimination-competitor"
+    },
+    {
+      "name": "Competitive 3v3 Group Elimination Hero",
+      "id": "competitive-3v3-group-elimination-hero"
+    },
+    {
+      "name": "Competitive CTF Competitor",
+      "id": "competitive-ctf-competitor"
+    },
+    {
+      "name": "Competitive Deathmatch Competitor",
+      "id": "competitive-deathmatch-competitor"
+    },
+    {
+      "name": "Competitive Deathmatch Hero",
+      "id": "competitive-deathmatch-hero"
+    },
+    {
+      "name": "Copa Lúcioball Competitor",
+      "id": "copa-lucioball-competitor"
+    },
+    {
+      "name": "Crusader",
+      "id": "crusader"
+    },
+    {
+      "name": "Dallas Fuel Logo",
+      "id": "dallas-fuel-logo"
+    },
+    {
+      "name": "Dance",
+      "id": "dance"
+    },
+    {
+      "name": "Dark Logo",
+      "id": "dark-logo"
+    },
+    {
+      "name": "Dark Overwatch",
+      "id": "dark-overwatch"
+    },
+    {
+      "name": "Dark Title",
+      "id": "dark-title"
+    },
+    {
+      "name": "Demon Hunter",
+      "id": "demon-hunter"
+    },
+    {
+      "name": "Dragon's Head",
+      "id": "dragons-head"
+    },
+    {
+      "name": "Droppachi",
+      "id": "droppachi"
+    },
+    {
+      "name": "Día de los Muertos",
+      "id": "da-de-los-muertos"
+    },
+    {
+      "name": "Eradicator",
+      "id": "eradicator"
+    },
+    {
+      "name": "Fangs",
+      "id": "fangs"
+    },
+    {
+      "name": "Florida Mayhem Logo",
+      "id": "florida-mayhem-logo"
+    },
+    {
+      "name": "Forge Onward",
+      "id": "forge-onward"
+    },
+    {
+      "name": "FotS2",
+      "id": "fots2"
+    },
+    {
+      "name": "Fuji",
+      "id": "fuji"
+    },
+    {
+      "name": "GL HF",
+      "id": "gl-hf"
+    },
+    {
+      "name": "Goal Blossom",
+      "id": "goal-blossom"
+    },
+    {
+      "name": "Goldshire Pictures",
+      "id": "goldshire-pictures"
+    },
+    {
+      "name": "Good Fortune",
+      "id": "good-fortune"
+    },
+    {
+      "name": "Gummy Hog",
+      "id": "gummy-hog"
+    },
+    {
+      "name": "Halloween Special",
+      "id": "halloween-special"
+    },
+    {
+      "name": "Halloween Terror",
+      "id": "halloween-terror"
+    },
+    {
+      "name": "Houston Outlaws Logo",
+      "id": "houston-outlaws-logo"
+    },
+    {
+      "name": "Inaugural Season",
+      "id": "inaugural-season"
+    },
+    {
+      "name": "Jail",
+      "id": "jail"
+    },
+    {
+      "name": "Jaina",
+      "id": "jaina"
+    },
+    {
+      "name": "Junkenstein's Revenge",
+      "id": "junkensteins-revenge"
+    },
+    {
+      "name": "Leek",
+      "id": "leek"
+    },
+    {
+      "name": "Logo",
+      "id": "logo"
+    },
+    {
+      "name": "London Spitfire Logo",
+      "id": "london-spitfire-logo"
+    },
+    {
+      "name": "Los Angeles Gladiators Logo",
+      "id": "los-angeles-gladiators-logo"
+    },
+    {
+      "name": "Los Angeles Valiant Logo",
+      "id": "los-angeles-valiant-logo"
+    },
+    {
+      "name": "Lucky Pouch",
+      "id": "lucky-pouch"
+    },
+    {
+      "name": "Lumérico",
+      "id": "lumerico"
+    },
+    {
+      "name": "Man and Omnic",
+      "id": "man-and-omnic"
+    },
+    {
+      "name": "Monk",
+      "id": "monk"
+    },
+    {
+      "name": "My Creations",
+      "id": "my-creations"
+    },
+    {
+      "name": "New York Excelsior Logo",
+      "id": "new-york-excelsior-logo"
+    },
+    {
+      "name": "Null Sector",
+      "id": "null-sector"
+    },
+    {
+      "name": "Nullmari",
+      "id": "nullmari"
+    },
+    {
+      "name": "Nulltrooper",
+      "id": "nulltrooper"
+    },
+    {
+      "name": "Numbani Statue",
+      "id": "numbani-statue"
+    },
+    {
+      "name": "Omnic Rights",
+      "id": "omnic-rights"
+    },
+    {
+      "name": "Oops",
+      "id": "oops"
+    },
+    {
+      "name": "OR14-NS",
+      "id": "or14ns"
+    },
+    {
+      "name": "Out of My Way",
+      "id": "out-of-my-way"
+    },
+    {
+      "name": "Overwatch",
+      "id": "overwatch"
+    },
+    {
+      "name": "Overwatch League",
+      "id": "overwatch-league"
+    },
+    {
+      "name": "Overwatch Title",
+      "id": "overwatch-title"
+    },
+    {
+      "name": "Pachimari",
+      "id": "pachimari"
+    },
+    {
+      "name": "Philadelphia Fusion Logo",
+      "id": "philadelphia-fusion-logo"
+    },
+    {
+      "name": "Piñata",
+      "id": "piata"
+    },
+    {
+      "name": "Pumpkins",
+      "id": "pumpkins"
+    },
+    {
+      "name": "Red Envelope",
+      "id": "red-envelope"
+    },
+    {
+      "name": "Red O",
+      "id": "red-o"
+    },
+    {
+      "name": "Red X",
+      "id": "red-x"
+    },
+    {
+      "name": "Respect",
+      "id": "respect"
+    },
+    {
+      "name": "Rhino",
+      "id": "rhino"
+    },
+    {
+      "name": "Rikimaru",
+      "id": "rikimaru"
+    },
+    {
+      "name": "Rise",
+      "id": "rise"
+    },
+    {
+      "name": "Rise of the Zomnics",
+      "id": "rise-of-the-zomnics"
+    },
+    {
+      "name": "Safe Hands",
+      "id": "safe-hands"
+    },
+    {
+      "name": "San Francisco Shock Logo",
+      "id": "san-francisco-shock-logo"
+    },
+    {
+      "name": "Sarcophagus",
+      "id": "sarcophagus"
+    },
+    {
+      "name": "Scooter",
+      "id": "scooter"
+    },
+    {
+      "name": "Scroll",
+      "id": "scroll"
+    },
+    {
+      "name": "Season 1 Competitor",
+      "id": "season-1-competitor"
+    },
+    {
+      "name": "Season 10 Competitor",
+      "id": "season-10-competitor"
+    },
+    {
+      "name": "Season 11 Competitor",
+      "id": "season-11-competitor"
+    },
+    {
+      "name": "Season 2 Competitor",
+      "id": "season-2-competitor"
+    },
+    {
+      "name": "Season 3 Competitor",
+      "id": "season-3-competitor"
+    },
+    {
+      "name": "Season 4 Competitor",
+      "id": "season-4-competitor"
+    },
+    {
+      "name": "Season 5 Competitor",
+      "id": "season-5-competitor"
+    },
+    {
+      "name": "Season 6 Competitor",
+      "id": "season-6-competitor"
+    },
+    {
+      "name": "Season 7 Competitor",
+      "id": "season-7-competitor"
+    },
+    {
+      "name": "Season 8 Competitor",
+      "id": "season-8-competitor"
+    },
+    {
+      "name": "Season 9 Competitor",
+      "id": "season-9-competitor"
+    },
+    {
+      "name": "Seoul Dynasty Logo",
+      "id": "seoul-dynasty-logo"
+    },
+    {
+      "name": "Shanghai Dragons Logo",
+      "id": "shanghai-dragons-logo"
+    },
+    {
+      "name": "Siege Mode",
+      "id": "siege-mode"
+    },
+    {
+      "name": "Six-Gun Killer",
+      "id": "sixgun-killer"
+    },
+    {
+      "name": "Slicer",
+      "id": "slicer"
+    },
+    {
+      "name": "Snowcree",
+      "id": "snowcree"
+    },
+    {
+      "name": "Snowhog",
+      "id": "snowhog"
+    },
+    {
+      "name": "Snowmei",
+      "id": "snowmei"
+    },
+    {
+      "name": "Snowreaper",
+      "id": "snowreaper"
+    },
+    {
+      "name": "Sol",
+      "id": "sol"
+    },
+    {
+      "name": "Sorry",
+      "id": "sorry"
+    },
+    {
+      "name": "Soulstone",
+      "id": "soulstone"
+    },
+    {
+      "name": "Summer Games",
+      "id": "summer-games"
+    },
+    {
+      "name": "Summer Games 2016",
+      "id": "summer-games-2016"
+    },
+    {
+      "name": "Sylvanas",
+      "id": "sylvanas"
+    },
+    {
+      "name": "Talon Assassin",
+      "id": "talon-assassin"
+    },
+    {
+      "name": "Talon Enforcer",
+      "id": "talon-enforcer"
+    },
+    {
+      "name": "Talon Heavy Assault",
+      "id": "talon-heavy-assault"
+    },
+    {
+      "name": "Talon Sniper",
+      "id": "talon-sniper"
+    },
+    {
+      "name": "Talon Trooper",
+      "id": "talon-trooper"
+    },
+    {
+      "name": "Tea Time",
+      "id": "tea-time"
+    },
+    {
+      "name": "Thanks",
+      "id": "thanks"
+    },
+    {
+      "name": "The Monster",
+      "id": "the-monster"
+    },
+    {
+      "name": "The Reapening",
+      "id": "the-reapening"
+    },
+    {
+      "name": "The Reaper",
+      "id": "the-reaper"
+    },
+    {
+      "name": "The Witch",
+      "id": "the-witch"
+    },
+    {
+      "name": "Varok",
+      "id": "varok"
+    },
+    {
+      "name": "Victory",
+      "id": "victory"
+    },
+    {
+      "name": "Vivi's Adventure",
+      "id": "vivis-adventure"
+    },
+    {
+      "name": "Well Played",
+      "id": "well-played"
+    },
+    {
+      "name": "Winter Wonderland",
+      "id": "winter-wonderland"
+    },
+    {
+      "name": "Witch Doctor",
+      "id": "witch-doctor"
+    },
+    {
+      "name": "Witch's Brew",
+      "id": "witchs-brew"
+    },
+    {
+      "name": "Wizard",
+      "id": "wizard"
+    },
+    {
+      "name": "Year of the Dog",
+      "id": "year-of-the-dog"
+    },
+    {
+      "name": "Year of the Rooster",
+      "id": "year-of-the-rooster"
+    },
+    {
+      "name": "Yeti",
+      "id": "yeti"
+    },
+    {
+      "name": "Yeti Hunter",
+      "id": "yeti-hunter"
+    },
+    {
+      "name": "You are not prepared!",
+      "id": "you-are-not-prepared"
+    }
+  ]
+}
