@@ -8,3 +8,6 @@ helpers/OITTool/programs
 webserver.py
 .history/
 .eslintcache
+helpers/dataMapper/rawData/
+*.ini
+data/master.json.original
