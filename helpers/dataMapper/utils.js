@@ -89,6 +89,7 @@ const getPreviewURL = (type, id, hero, event) => {
     case 'skins':
     case 'skinsEpic':
     case 'skinsLegendary':
+	case 'owlskins':
     case 'poses':
       return `${url}.jpg`
   }
