@@ -72,6 +72,8 @@ const getPreviewURL = (type, id, hero, event) => {
   let url
   if (event && type.match(/^(skins(Epic|Legendary)?|poses|emotes|intros)$/)) {
     url = `/updates/${event}/${type}/${id}`
+  } else if (type == 'owlskins')) {
+    url = `/${type}/${id}`
   } else {
     url = `/heroes/${hero}/${type}/${id}`
   }
