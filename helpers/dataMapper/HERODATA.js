@@ -21,10 +21,18 @@ const data = {
   },
   ashe: {
     class: CLASSES.DAMAGE,
-    description: "Ashe is the leader of the Deadlock Gang, a group of bandits and criminals who menace the American southwest.",
+    description: "Ashe is the leader of the Deadlock Gang, a group of bandits and criminals who menace the American Southwest.",
     colors: {
       primary: "#3e3c3a",
       highlight: "#7e7c7a"
+    }
+  },
+  baptiste: {
+    class: CLASSES.SUPPORT,
+    description: "An elite combat medic and ex-Talon operative, Baptiste now uses his skills to help those whose lives have been impacted by war.",
+    colors: {
+      primary: "#f08d35",
+      highlight: "#f08d35"
     }
   },
   bastion: {
